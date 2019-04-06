@@ -21,3 +21,11 @@
 /yarn-error.log
 
 .byebug_history
+
+
+#AWS key
+config/initializers/carrier_wave.rb
+
+# アップロードされたテスト画像を無視する
+/public/uploads
+
