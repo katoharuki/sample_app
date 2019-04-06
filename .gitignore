@@ -24,5 +24,3 @@
 
 # アップロードされたテスト画像を無視する
 /public/uploads
-#aws key
-/config/initializers/carrier_wave.rb
